@@ -1,3 +1,4 @@
+<h1 align="center"><b>Hi ,  I'm Aashish Singh Negi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 # 💫 About Me:
 🔭 I’m currently a First-year B-Tech Student at VIT. <br>👯Pursuing Computer Science Engineering <br>🤝 Specialisation AI & ML <br>🌱 I've foundational understanding of Python.<br>💬 Hobbies: Cricket, Badminton,Fitness etc <br>⚡Athlete trying to be a Coder. 
 
