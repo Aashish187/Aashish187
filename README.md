@@ -1,5 +1,22 @@
+
+
 <h1 align="center"><b>Hi ,  I'm Aashish Singh Negi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-# 💫 About Me:
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<p align="center" style="font-size: 30px;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=cyan&size=50&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+My+Github+Profile!!;Explore+🔎+and+Collaborate+with+me+⚙">
+  </a>
+</p>
+
+###
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">*About me*
+
+
+
 🔭 I’m currently a First-year B-Tech Student at VIT. <br>👯Pursuing Computer Science Engineering <br>🤝 Specialisation AI & ML <br>🌱 I've foundational understanding of Python.<br>💬 Hobbies: Cricket, Badminton,Fitness etc <br>⚡Athlete trying to be a Coder. 
 
 
@@ -16,10 +33,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aashish187&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aashish187&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Aashish187&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
