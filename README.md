@@ -37,6 +37,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish187&theme=react-dark&hide_border=true)
+
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Aashish187&icon=5&color=1)](https://visitcount.itsvg.in) -->
