@@ -32,10 +32,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aashish187&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-<div align="center">
-  <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
-</div>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish187&theme=react-dark&hide_border=true)
 
