@@ -25,19 +25,17 @@
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,github,windows,vscode,matlab)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aashish187&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aashish187&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish187&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashish187&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aashish187&theme=onedark)
 ---
 [![](https://visitcount.itsvg.in/api?id=Aashish187&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aashish187&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish187&theme=react-dark&hide_border=true)
