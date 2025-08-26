@@ -17,7 +17,7 @@
 
 
 
-🔭 I’m currently a First-year B-Tech Student at VIT. <br>👯Pursuing Computer Science Engineering <br>🤝 Specialisation AI & ML <br>🌱 I've foundational understanding of Python,C++,HTML and CSS.<br>💬 Hobbies: Cricket, Badminton,Fitness etc <br>⚡Athlete trying to be a Coder. 
+🔭 I’m currently a Second-year B-Tech Student at VIT. <br>👯Pursuing Computer Science Engineering <br>🤝 Specialisation AI & ML <br>🌱 I've foundational understanding of Python,C++,HTML and CSS.<br>💬 Hobbies: Cricket, Badminton,Fitness etc <br>⚡Athlete trying to be a Coder. 
 
 
 ## 🌐 Socials:
