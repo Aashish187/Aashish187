@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-singh-negi-029531333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishsinghnegi0408@gmail.com) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,matlab,)
+![My Skills](https://skillicons.dev/icons?i=py,html,cpp)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aashish187&theme=dark&hide_border=false)<br/>
