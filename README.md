@@ -80,7 +80,9 @@
   </p>
   
   <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish187&theme=react-dark&radius=14)
 
   [![Aashish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AashishSinghNe&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
