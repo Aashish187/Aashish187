@@ -57,6 +57,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
   <h3>🌟 GitHub Trophies</h3>
+  
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=Aashish187&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -84,7 +85,7 @@
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish187&theme=react-dark&radius=14)
 
-  [![Aashish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AashishSinghNe&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+  [![Aashish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AashishSinghNegi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
   <!--Line-->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
