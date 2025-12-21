@@ -74,12 +74,15 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aashish187&theme=react" alt="Most Commit Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aashish187&theme=react" alt="Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aashish187&theme=react&utcOffset=8" alt="Productive Time" />
+
+  ![](https://github-readme-stats.vercel.app/api?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Aashish187&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </p>
 
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish187&theme=radical" alt="GitHub Streak" />
-  </p>
+
+<!-- <img src="https://streak-stats.demolab.com/?user=Aashish187&theme=radical" alt="GitHub Streak" /> -->
   
   <!--Line-->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -93,6 +96,7 @@
 </div>
 
 <!-- <h3>🥉 Certification Badges </h3> -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashish187/Aashish187/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashish187/Aashish187/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aashish187/Aashish187/output/pacman-contribution-graph.svg">
@@ -106,3 +110,5 @@
   🌌 Destiny always demands patience 🌌
 </div>
 </div>
+
+
