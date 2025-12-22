@@ -75,7 +75,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aashish187&theme=react" alt="Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aashish187&theme=react&utcOffset=8" alt="Productive Time" />
 
-  ![](https://github-readme-stats.vercel.app/api?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-stats.vercel.app/api?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Aashish187&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </p>
