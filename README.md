@@ -65,8 +65,7 @@
   </p>
   
   <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   <h3>📊 GitHub Stats</h3>
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aashish187&theme=react" alt="Profile Details" />
