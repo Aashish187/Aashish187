@@ -1,5 +1,4 @@
 <div align="center" style="position: relative;">
-
 <!-- Text overlay -->
 <div style="position: relative; padding-top: 250px; z-index: 1;">
   <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Aashish Singh Negi</h1>
