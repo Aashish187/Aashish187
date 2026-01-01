@@ -2,7 +2,6 @@
 <div style="position: relative; padding-top: 250px; z-index: 1;">
   <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Aashish Singh Negi</h1>
   <h3>A Enthusiast Student from India 🚀</h3>
-
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AIML+Enthusiast;Back-End+Learner;Lifelong+Learner" alt="Typing animation" />
   </p>
