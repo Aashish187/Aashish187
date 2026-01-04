@@ -5,7 +5,6 @@
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AIML+Enthusiast;Back-End+Learner;Lifelong+Learner" alt="Typing animation" />
   </p>
-
   <!-- Profile views and social links -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Aashish187&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
