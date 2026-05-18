@@ -97,10 +97,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aashish187/Aashish187/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
-
 <div style="font-style: italic; font-size: 18px; color: #70a1ff; margin-bottom: 20px;">
   🌌 Destiny always demands patience 🌌
 </div>
